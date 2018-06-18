@@ -350,7 +350,7 @@
           },
           "title": "Approve Certificate",
           "text": "Once payment is made the application is approved and the applicant will be issued a link to their e-Certificate. They can then print this e-Certificate for their records.",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-k\" data-toolbar=\"-mbrBtnMove\">Status: Rejected</a> ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-k\" data-toolbar=\"-mbrBtnMove\">Next: Revoke Certificate</a> ",
           "_tags": [
             "Theme"
           ],
@@ -402,7 +402,7 @@
           },
           "title": "Revoke Certificate",
           "text": "If an application is rejected industry applicants will be notified via email. You can click on the <b>ISSUES</b>&nbsp;button to review why an application was rejected by fisheries officers.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Incomplete Applications</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-h\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Next: Set to Incomplete</a> ",
           "_tags": [
             "Theme"
           ],
@@ -452,9 +452,9 @@
               "size": 0
             }
           },
-          "title": "Incomplete Certificate",
+          "title": "Incomplete Application",
           "text": "On occation industry applications will be set to incomplete if some of the information was not provided. Applicants will then be issued with a <b><i>new link</i></b> to refill and resend the application.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Rejected Applications</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header2-7\" data-toolbar=\"-mbrBtnMove\">Back to Top</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header2-7\" data-toolbar=\"-mbrBtnMove\">Back to Top</a>",
           "_tags": [
             "Theme"
           ],
