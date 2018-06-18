@@ -28,7 +28,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/invoice-128x127-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ffa-reverse-logo-white-128x127.png",
     "noImageResize": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 25,
